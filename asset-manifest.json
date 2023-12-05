@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dhernandezortiz1/reactCW/static/css/main.ec8fd42b.css",
+    "main.js": "/dhernandezortiz1/reactCW/static/js/main.e16d5611.js",
+    "static/js/787.d4aba7ab.chunk.js": "/dhernandezortiz1/reactCW/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/dhernandezortiz1/reactCW/index.html",
+    "main.ec8fd42b.css.map": "/dhernandezortiz1/reactCW/static/css/main.ec8fd42b.css.map",
+    "main.e16d5611.js.map": "/dhernandezortiz1/reactCW/static/js/main.e16d5611.js.map",
+    "787.d4aba7ab.chunk.js.map": "/dhernandezortiz1/reactCW/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec8fd42b.css",
+    "static/js/main.e16d5611.js"
+  ]
+}
